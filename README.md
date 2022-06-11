@@ -1,2 +1,2 @@
-# Projeto_react_SkyOne
+# Projeto react SkyOne
 Projeto em ReactJs oferecido pela SkyOne Solutions
